@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @YOYLV
-- 👀 I’m interested in Airplane, soccer and astros
+- 👀 I’m interested in Airplane and Cybersecurity
 - 🌱 I’m currently learning cpp, and aeronautics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ydromi500@gmail.com
 - ⚡ Fun fact: I´m student from UNAQ and idk how is that I´m here
 
 <!---
